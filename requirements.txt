@@ -5,3 +5,6 @@ scikit-learn
 spacy
 groq
 fuzzywuzzy 
+docx2txt         
+PyPDF2                                                                                                           
+nltk
