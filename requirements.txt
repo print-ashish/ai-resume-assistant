@@ -1,0 +1,7 @@
+streamlit
+python-docx
+PyMuPDF
+scikit-learn
+spacy
+groq
+fuzzywuzzy 
